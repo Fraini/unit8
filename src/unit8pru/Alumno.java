@@ -1,7 +1,7 @@
 /**
  * 
  */
-package unit8;
+package unit8pru;
 
 /**
  * @author Fraini Sánchez
