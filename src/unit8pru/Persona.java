@@ -13,7 +13,7 @@ public abstract class Persona {
 	protected String nombre;
 	protected String dni;
 	protected ArrayList<Asignatura> asignaturas;
-	
+
 	Persona(String nombre, String dni){
 		this.nombre = nombre;
 		this.dni = dni;
