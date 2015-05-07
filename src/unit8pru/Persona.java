@@ -11,6 +11,17 @@ import java.util.ArrayList;
  */
 public abstract class Persona {
 	protected String nombre;
+	
+	protected int salario;
+	
+	public int getSalario() {
+		return salario;
+	}
+
+	public void setSalario(int salario) {
+		this.salario = salario;
+	}
+
 	protected String dni;
 	protected ArrayList<Asignatura> asignaturas;
 	
